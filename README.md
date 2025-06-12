@@ -84,7 +84,6 @@
                     <p>Сертификат органических продуктов</p>
                     <span class="cert-date">Выдан: 10.03.2023</span>
                 </div>
-                
                 <div class="certificate-card">
                     <div class="certificate-img">
                         <img src="https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1637&q=80" alt="Награда">
