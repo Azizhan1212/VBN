@@ -18,7 +18,6 @@
             <p>Искусство вкусной жизни с 2010 года</p>
         </div>
     </header>
-
     <nav class="navbar">
         <div class="container">
             <ul>
@@ -30,7 +29,6 @@
             </ul>
         </div>
     </nav>
-
     <main class="container">
         <section class="hero">
             <div class="hero-content">
@@ -43,7 +41,6 @@
                 <img src="https://images.unsplash.com/photo-1606787366850-de6330128bfc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Изысканная кухня">
             </div>
         </section>
-
         <section class="features">
             <div class="feature-card">
                 <i class="fas fa-star"></i>
@@ -61,11 +58,9 @@
                 <p>Команда сертифицированных шеф-поваров</p>
             </div>
         </section>
-
         <section id="certificates" class="certificates">
             <h2 class="section-title">Наши сертификаты и награды</h2>
-            <p class="section-subtitle">Мы гордимся нашими достижениями и гарантируем качество</p>
-            
+            <p class="section-subtitle">Мы гордимся нашими достижениями и гарантируем качество</p> 
             <div class="certificate-grid">
                 <div class="certificate-card">
                     <div class="certificate-img">
@@ -77,8 +72,7 @@
                     <h3>ISO 9001:2015</h3>
                     <p>Международный стандарт качества</p>
                     <span class="cert-date">Выдан: 15.05.2022</span>
-                </div>
-                
+                </div>   
                 <div class="certificate-card">
                     <div class="certificate-img">
                         <img src="https://images.unsplash.com/photo-1604594849809-dfedbc827105?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Органик сертификат">
@@ -104,7 +98,6 @@
                 </div>
             </div>
         </section>
-
         <section class="testimonials">
             <h2 class="section-title">Отзывы наших клиентов</h2>
             <div class="testimonial-slider">
@@ -123,7 +116,6 @@
             </div>
         </section>
     </main>
-
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
